@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-5f66896dc6.jinghaiqiche.cn/sitemap.xml
